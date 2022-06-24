@@ -1,0 +1,12 @@
+Data Analytics Project using Tableau.
+
+This is a Sales Insight Project, here i made an Analytics Dashboard using Tableau.
+Here i took a dataset with 150000 datas of a manufaturing company with 4 years sales details.
+Load the dataset using MySQL and done initial study on the data using SQL Quires.
+Find the mistakes and unwanted details in the dataset.
+Then load the dataset into Tableau from MySql Server.
+Check the connections between Tables and connected some manually.
+Then Transform the data, Duplicate and unwanded datas were removed.
+Convert the currency form USD to Indian Rupee.
+After cleaning create a dashboard by Revenue and Sales Quantity as Two new measures.
+Visualized the data, Revenue - Customer Name, Revenue - Markets, Total Sales, Sales with Zones etc.....
